@@ -1,7 +1,7 @@
 # Climate Challenge Week 0
 
 ## Setup Instructions
-
+## Project initialized
 ### 1. Clone repo
 ```bash
 git clone https://github.com/MahletBizunehBekele/-climate-challenge-week0.git
